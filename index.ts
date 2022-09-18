@@ -1,4 +1,4 @@
 const name = 'Oleg';
 
-console.log('want', name);
+console.log('wanting', name);
 export {};
