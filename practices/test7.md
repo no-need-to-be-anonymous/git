@@ -2,7 +2,7 @@
 slug: testing-adding-2
 stages:
   - development
-short_description: Some description
+short_description: Testing descritpoin
 tags:
   - agile events
   - design sprint
