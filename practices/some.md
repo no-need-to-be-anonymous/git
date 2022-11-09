@@ -37,7 +37,7 @@ keywords:
 author_github_username: prokopsimek
 ---
 
-# Testing events
+# Testing slug
 
 **TL;DR**
 
