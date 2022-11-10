@@ -2,27 +2,8 @@
 slug: agile-events
 stages:
   - development
-short_description: Agile Events are necessary meetings for keeping up the good work. They are usually time-boxed and the most common Agile framework that uses these periodic rituals is Scrum.
+short_description: This is agile events description and i also deleted tags for it except product backlog
 tags:
-  - agile events
-  - design sprint
-  - scrum
-  - kanban
-  - waterfall
-  - backlog
-  - sprint
-  - standup
-  - iteration
-  - retrospective
-  - refinement
-  - demotivated team
-  - rituals
-  - retrospective
-  - meaningless work
-  - mvp
-  - pair programming
-  - good developer experience
-  - user story
   - product backlog
 keywords:
   - agile events
