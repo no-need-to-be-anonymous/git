@@ -5,7 +5,6 @@ stages:
 short_description: Git Flow is a specific branching system for Git. It helps the team to better control and add different project versions.
 tags:
   - git flow
-  - branching
   - semantic versioning
   - code review
   - code coverage

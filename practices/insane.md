@@ -2,6 +2,7 @@
 slug: insane
 stages:
   - building_team
+  - mvp
 short_description: A Tech Lead is an experienced developer who ensures that team members follow major technical decision. It should be a person with a desire to learn and share new concepts and technologies.
 tags:
   - roles
