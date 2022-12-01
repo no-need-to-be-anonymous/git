@@ -11,6 +11,7 @@ tags:
   - personality
   - personality traits
   - team roles
+  - my-tag
 keywords:
   - personality
   - team
