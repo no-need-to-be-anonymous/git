@@ -29,7 +29,7 @@ author_github_username: zeman-j4
 
 **TL;DR**
 
-16 personalities is a short personality test that helps with communication within the team and uncovers general strong points and weaknesses of every team member.
+16 personalities i a short personality test that helps with communication within the team and uncovers general strong points and weaknesses of every team member.
 
 ## What Is 16 Personalities
 
