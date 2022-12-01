@@ -13,6 +13,7 @@ tags:
   - team roles
   - my-tag
   - second-tag
+  - another-tag
 keywords:
   - personality
   - team
