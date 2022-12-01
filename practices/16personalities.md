@@ -12,6 +12,7 @@ tags:
   - personality traits
   - team roles
   - my-tag
+  - second-tag
 keywords:
   - personality
   - team
