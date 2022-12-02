@@ -15,6 +15,7 @@ tags:
   - good developer experience
   - morocco
   - agadir
+  - taghazout
 keywords:
   - design sprint
   - value proposition
